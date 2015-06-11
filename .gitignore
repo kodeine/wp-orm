@@ -1,1 +1,8 @@
 .DS_Store
+/vendor
+.env
+.idea
+.DS_Store
+composer.phar
+composer.lock
+Thumbs.db
